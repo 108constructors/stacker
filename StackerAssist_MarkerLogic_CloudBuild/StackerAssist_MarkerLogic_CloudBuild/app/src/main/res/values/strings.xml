@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Stacker Assist</string>
+    <string name="accessibility_service_summary">Auto tap when the marker-contact detector says it is time.</string>
+    <string name="accessibility_service_description">Stacker Assist uses Accessibility gestures to perform a simple screen tap after you explicitly enable this service. It does not read passwords, messages, or private text. Use only for personal testing where allowed.</string>
+</resources>
